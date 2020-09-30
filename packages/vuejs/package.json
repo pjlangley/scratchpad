@@ -4,7 +4,7 @@
   "private": true,
   "description": "VueJS scratchpad",
   "author": "pjlangley <pjlangley@users.noreply.github.com>",
-  "homepage": "https://github.com/pjlangley/scratchpad/packages/vuejs",
+  "homepage": "https://github.com/pjlangley/scratchpad",
   "license": "MIT",
   "repository": {
     "type": "git",
