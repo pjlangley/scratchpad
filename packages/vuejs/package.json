@@ -1,0 +1,13 @@
+{
+  "name": "vuejs",
+  "version": "0.0.1",
+  "private": true,
+  "description": "VueJS scratchpad",
+  "author": "pjlangley <pjlangley@users.noreply.github.com>",
+  "homepage": "https://github.com/pjlangley/scratchpad/packages/vuejs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjlangley/scratchpad.git"
+  }
+}
